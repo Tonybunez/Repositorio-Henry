@@ -1,1 +1,7 @@
 Esta es la RAMAB Aqui se podran hacer testeos sin necesidad de afectar a la rama principal.
+
+
+-Pruebas para solucionar
+-No se publica nada hasta que toda la version este terminada
+-Notas en ingles bien redactadas
+-Trabajen en equipo.
