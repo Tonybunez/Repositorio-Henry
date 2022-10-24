@@ -7,24 +7,29 @@ body{
   background:#ededed;
 }
 
+.maincontainer2,.footerlist{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
 .nav{
   display: flex;
   justify-content: center;
   color: black;
   border-bottom:2px solid gray;
 }
-.nav>li{
+.nav>li,.navmenuleft>li,.footerlist>li{
   list-style: none;
   padding:20px;
 }
 
-.nav>li>a{
+.nav>li>a,.navmenuleft>li>a,.footerlist>li>a{
   text-decoration: none;
   color:black;
   padding:20px;
 }
 
-.nav>li>a:hover{
+.nav>li>a:hover,.navmenuleft>li>a:hover,.footerlist>li>a:hover{
   background-color:gray;
   color: white;
   cursor:pointer;
