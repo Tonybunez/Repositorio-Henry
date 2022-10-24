@@ -1,0 +1,29 @@
+[33mcommit ad12e38fbfa46f2cdb5c30e92a6e057e3b55c238[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Tony <tonybunez@gmail.com>
+Date:   Sun Oct 23 21:10:12 2022 -0500
+
+    Lista con Fondo de BG
+
+[33mcommit b860cee02485277695a283deff03708905ee9b13[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: CarlosG <israel_rayito13@hotmail.com>
+Date:   Sun Oct 23 20:10:03 2022 -0500
+
+    Codigo General PaginaTest
+
+[33mcommit 201899ccfc7906d746b0c44739e9e9d8b069d137[m
+Author: ByTonyz <israel_rayito13@hotmail.com>
+Date:   Sat Oct 22 09:59:44 2022 -0500
+
+    Archivos Principales para la pagina web
+
+[33mcommit 33be40265b17d3a16df36622e4548b8a49273d2d[m
+Author: ByTonyz <israel_rayito13@hotmail.com>
+Date:   Sat Oct 22 09:54:39 2022 -0500
+
+    Agregamos archivo main js para la paginaweb
+
+[33mcommit a8571f06e87678b65f3ff16c449d382bcce313d5[m
+Author: ByTonyz <israel_rayito13@hotmail.com>
+Date:   Sat Oct 22 09:37:04 2022 -0500
+
+    Initial commit
